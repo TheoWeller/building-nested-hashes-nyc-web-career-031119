@@ -28,7 +28,7 @@ def fourth_challenge
       ]
    }
 }
-montague.update(:hero) { |:status, value| "dead" }
+
 
 
 end
